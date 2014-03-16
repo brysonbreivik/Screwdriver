@@ -2,3 +2,10 @@
 *.snap
 *.resources
 *.xmi
+*.log
+*.index
+*.txt
+*.xml
+*.properties
+.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache
+.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
